@@ -3,4 +3,5 @@
 // ajout d'une ligne par yves le 22/7/2018 22:02
 // ajout d'une nouvelle ligne par amedee le 22/7/2018 22:29
 // ajout d'une nouvelle ligne par yves le 22/7/2018 22:42
+// ajout d'une nouvelle ligne par amedee le 22/7/2018 22:48, source de conflit
 ?>
